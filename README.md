@@ -63,7 +63,7 @@ Check out [this](https://support.microsoft.com/en-us/help/827218/how-to-determin
 
 ## 4.  Project's structure :
 
-- The agent.py file contains the general structure of the Reinforcement learning agent .
-- The ddpg_model.py contains the actor's network code and the critic's network code.
+- agent.py file contains the general structure of the Reinforcement learning agent .
+- model.py contains the actor's network code and the critic's network code.
 - Continuous_control.ipynb  is the notebook used to train and evaluate the agent.
-- Continuous Control Project.pdf is a report about the different aspects of this project.
+- Report.pdf is a report about the different aspects of this project.
